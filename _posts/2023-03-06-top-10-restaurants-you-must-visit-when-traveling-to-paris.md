@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Paris"
-            categories: travel
-            tag: [TravelingToParis, ParisRestaurants, FrenchCuisine, ParisFood, ParisDining, ParisEats, ParisTrip, ParisVacation, ParisTravel, ParisAdventure, ParisExplorer, ParisLifestyle, ParisLife, ParisLove, ParisVibes, ParisDreams, ParisExperience, ParisMemories, ParisDream, ParisLover, ParisFever, ParisJourney, ParisFun, ParisStyle, ParisDreaming, ParisVibe, ParisFashion, ParisFoodie, ParisFoodies]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Paris and looking for the best restaurants to visit? Look no further! Here are the top 10 restaurants you must visit when traveling to Paris. From classic French cuisine to modern fusion, there is something for everyone. Read on to find out more about these amazing restaurants, their addresses, menu recommendations, and opening and closing hours. 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Paris"
+categories: travel
+tag: [TravelingToParis, ParisRestaurants, FrenchCuisine, ParisFood, ParisDining, ParisEats, ParisTrip, ParisVacation, ParisTravel, ParisAdventure, ParisExplorer, ParisLifestyle, ParisLife, ParisLove, ParisVibes, ParisDreams, ParisExperience, ParisMemories, ParisDream, ParisLover, ParisFever, ParisJourney, ParisFun, ParisStyle, ParisDreaming, ParisVibe, ParisFashion, ParisFoodie, ParisFoodies]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Paris and looking for the best restaurants to visit? Look no further! Here are the top 10 restaurants you must visit when traveling to Paris. From classic French cuisine to modern fusion, there is something for everyone. Read on to find out more about these amazing restaurants, their addresses, menu recommendations, and opening and closing hours. 
 
 ## 1. Le Comptoir de la Gastronomie 
 This classic French restaurant is located in the heart of the city and offers traditional French cuisine with a modern twist. The menu changes regularly and is full of fresh, seasonal ingredients. The atmosphere is cozy and welcoming, and the staff is friendly and knowledgeable. 

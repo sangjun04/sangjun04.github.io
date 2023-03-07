@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Istanbul"
-            categories: travel
-            tag: [Hashtags, Istanbul, Restaurants, TurkishCuisine, Foodie, Travel, FoodLover, FoodAdventure, Traveling, Exploring, CulinaryDelights]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Istanbul"
+categories: travel
+tag: [Hashtags, Istanbul, Restaurants, TurkishCuisine, Foodie, Travel, FoodLover, FoodAdventure, Traveling, Exploring, CulinaryDelights]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+
 Are you planning a trip to Istanbul? If so, you’re in for a treat. Istanbul is a vibrant city with a unique blend of cultures and cuisines. From traditional Turkish dishes to modern fusion cuisine, there are plenty of delicious restaurants to explore. Here are the top 10 restaurants you must visit when traveling to Istanbul. 
 
 1. **Karaköy Lokantası** - Located in the heart of Karaköy, this restaurant serves up traditional Turkish dishes with a modern twist. The menu features a variety of mezes, kebabs, and grilled meats. The atmosphere is cozy and inviting, and the staff is friendly and attentive. Address: Kemankeş Karamustafa Paşa Mahallesi, Kemankeş Caddesi No:45, 34425 Beyoğlu/İstanbul. 

@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Makkah"
-            categories: travel
-            tag: [Makkah, SaudiArabia, Restaurants, Food, Travel, Tourism]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Makkah? If so, you’re in for a treat! Makkah is home to some of the best restaurants in the world. From traditional Saudi Arabian cuisine to international favorites, Makkah has something for everyone. Here are the top 10 restaurants you must visit when traveling to Makkah:
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Makkah"
+categories: travel
+tag: [Makkah, SaudiArabia, Restaurants, Food, Travel, Tourism]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Makkah? If so, you’re in for a treat! Makkah is home to some of the best restaurants in the world. From traditional Saudi Arabian cuisine to international favorites, Makkah has something for everyone. Here are the top 10 restaurants you must visit when traveling to Makkah:
 
 1. Al-Tazaj: Located in the heart of Makkah, Al-Tazaj is a popular restaurant that serves traditional Saudi Arabian cuisine. The menu includes a variety of dishes such as kabsa, shawarma, and falafel. The restaurant also offers a wide selection of desserts and beverages. Address: Al-Tazaj, Al-Mansour Street, Makkah. 
 

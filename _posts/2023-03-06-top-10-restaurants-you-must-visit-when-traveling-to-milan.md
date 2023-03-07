@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Milan"
-            categories: travel
-            tag: [Hashtags, TravelMilan, ItalianCuisine, MilanRestaurants, FoodieTravel, FoodLovers, ItalianFood, TasteOfItaly, MilanFood, FoodTrip, FoodJourney, FoodAdventure]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Milan? If so, you’re in for a treat! Milan is one of the most vibrant cities in Italy, and it’s home to some of the best restaurants in the world. From classic Italian cuisine to modern fusion dishes, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Milan:
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Milan"
+categories: travel
+tag: [Hashtags, TravelMilan, ItalianCuisine, MilanRestaurants, FoodieTravel, FoodLovers, ItalianFood, TasteOfItaly, MilanFood, FoodTrip, FoodJourney, FoodAdventure]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Milan? If so, you’re in for a treat! Milan is one of the most vibrant cities in Italy, and it’s home to some of the best restaurants in the world. From classic Italian cuisine to modern fusion dishes, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Milan:
 
 1. **Trattoria Milanese** - This classic trattoria is a must-visit for anyone visiting Milan. Located in the heart of the city, Trattoria Milanese serves up traditional Italian fare with a modern twist. Try the risotto alla milanese, a creamy dish made with saffron and Parmesan cheese. Address: Via Santa Marta, 18, 20123 Milano MI. Opening Hours: Mon-Sat 12:00pm-3:00pm, 7:00pm-11:00pm.
 

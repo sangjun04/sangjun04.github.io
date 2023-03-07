@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Singapore"
-            categories: travel
-            tag: [Singapore, Travel, Restaurants, Food, Cuisine, Dining, RomanticDinner, SpecialOccasion, InternationalCuisine, Seafood, VegetarianOptions, LobsterLaksa, PekingDuck, SeafoodPaella, VegetableLasagne, FoieGras, LobsterThermidor, MushroomRisotto, ChocolateFondant]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Singapore"
+categories: travel
+tag: [Singapore, Travel, Restaurants, Food, Cuisine, Dining, RomanticDinner, SpecialOccasion, InternationalCuisine, Seafood, VegetarianOptions, LobsterLaksa, PekingDuck, SeafoodPaella, VegetableLasagne, FoieGras, LobsterThermidor, MushroomRisotto, ChocolateFondant]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you looking for the best places to eat in Singapore? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Singapore. From traditional Singaporean cuisine to international dishes, these restaurants offer something for everyone. Whether you're looking for a romantic dinner or a casual lunch, these restaurants will not disappoint. Read on to find out more about the best restaurants in Singapore.
 

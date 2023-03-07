@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Dubai"
-            categories: travel
-            tag: [ALDawaar, HyattRegencyDubai, InternationalCuisine, Atmosphere, BurjKhalifa, ModernEuropeanCuisine, LaPetiteMaison, DIFC, FrenchMediterraneanCuisine, Zuma, DIFC, JapaneseCuisine, Coya, DIFC, PeruvianCuisine, LaCantineDuFaubourg, JumeirahEmiratesTowers, FrenchMediterraneanCuisine, Nobu, AtlantisThePalm, JapaneseCuisine, LaSerre, VidaDowntown, FrenchMediterraneanCuisine, LaPetiteMaison, JumeirahBeachHotel, FrenchMediterraneanCuisine, LaPetiteMaison, DubaiMall, FrenchMediterraneanCuisine, DubaiRestaurants, FineDining, Foodie, Travel, TravelingToDubai]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Dubai"
+categories: travel
+tag: [ALDawaar, HyattRegencyDubai, InternationalCuisine, Atmosphere, BurjKhalifa, ModernEuropeanCuisine, LaPetiteMaison, DIFC, FrenchMediterraneanCuisine, Zuma, DIFC, JapaneseCuisine, Coya, DIFC, PeruvianCuisine, LaCantineDuFaubourg, JumeirahEmiratesTowers, FrenchMediterraneanCuisine, Nobu, AtlantisThePalm, JapaneseCuisine, LaSerre, VidaDowntown, FrenchMediterraneanCuisine, LaPetiteMaison, JumeirahBeachHotel, FrenchMediterraneanCuisine, LaPetiteMaison, DubaiMall, FrenchMediterraneanCuisine, DubaiRestaurants, FineDining, Foodie, Travel, TravelingToDubai]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you planning a trip to Dubai? If so, you’re in for a treat! Dubai is home to some of the best restaurants in the world, offering a wide range of cuisines and experiences. From traditional Middle Eastern fare to modern fusion dishes, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Dubai:
 

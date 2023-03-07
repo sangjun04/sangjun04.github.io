@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Palma de Mallorca"
-            categories: travel
-            tag: [PalmaDeMallorca, Restaurants, Foodie, Travel, Spain, Mallorca, FoodLover, Foodies, Travelers, Explorers, FoodTours, FoodTourism, FoodTour, FoodiesOfInstagram]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you looking for the best restaurants to visit while in Palma de Mallorca? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Palma de Mallorca. From traditional Spanish cuisine to modern Mediterranean dishes, these restaurants offer something for everyone. Whether you’re looking for a romantic dinner for two or a casual lunch with friends, this list has you covered. 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Palma de Mallorca"
+categories: travel
+tag: [PalmaDeMallorca, Restaurants, Foodie, Travel, Spain, Mallorca, FoodLover, Foodies, Travelers, Explorers, FoodTours, FoodTourism, FoodTour, FoodiesOfInstagram]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you looking for the best restaurants to visit while in Palma de Mallorca? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Palma de Mallorca. From traditional Spanish cuisine to modern Mediterranean dishes, these restaurants offer something for everyone. Whether you’re looking for a romantic dinner for two or a casual lunch with friends, this list has you covered. 
 
 ## 1. La Bodeguilla
 Located in the heart of Palma de Mallorca, La Bodeguilla is a traditional Spanish restaurant serving up classic dishes like paella and tapas. The restaurant is known for its friendly staff and cozy atmosphere. The menu offers a variety of dishes to choose from, including vegetarian options. Address: Carrer de la Bonaire, 4, 07001 Palma, Illes Balears, Spain. Opening Hours: Mon-Sat 12:00pm-4:00pm, 7:00pm-11:00pm.

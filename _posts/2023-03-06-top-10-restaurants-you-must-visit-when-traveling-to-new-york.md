@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to New York"
-            categories: travel
-            tag: [Carbone, ItalianFood, NYC, KatzsDeli, Pastrami, NYC, Momofuku, Ramen, NYC, TheSmith, AmericanFood, NYC, ShakeShack, Burgers, NYC, SpottedPig, GastroPub, NYC, NoMad, FrenchFood, NYC, TheBreslin, Gastropub, NYC, TheDutch, AmericanFood, NYC, SushiNakazawa, Sushi, NYC, NYCRestaurants, Foodie, TravelNYC]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to the Big Apple? If so, you won't want to miss out on the amazing restaurants New York has to offer. From classic Italian eateries to trendy new spots, here are the top 10 restaurants you must visit when traveling to New York.
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to New York"
+categories: travel
+tag: [Carbone, ItalianFood, NYC, KatzsDeli, Pastrami, NYC, Momofuku, Ramen, NYC, TheSmith, AmericanFood, NYC, ShakeShack, Burgers, NYC, SpottedPig, GastroPub, NYC, NoMad, FrenchFood, NYC, TheBreslin, Gastropub, NYC, TheDutch, AmericanFood, NYC, SushiNakazawa, Sushi, NYC, NYCRestaurants, Foodie, TravelNYC]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to the Big Apple? If so, you won't want to miss out on the amazing restaurants New York has to offer. From classic Italian eateries to trendy new spots, here are the top 10 restaurants you must visit when traveling to New York.
 
 ## 1. Carbone
 Address: 181 Thompson St, New York, NY 10012

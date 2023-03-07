@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Osaka"
-            categories: travel
-            tag: [Osaka, Restaurants, JapaneseCuisine, FusionFood, Kappo, Izakaya, Ramen, Kushiyaki, Sushi, Tempura, Tsukemen, Edomae, TsuruUdon, Travel, Foodie, FoodLover, FoodAdventure, FoodTrip, FoodHeaven]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Osaka"
+categories: travel
+tag: [Osaka, Restaurants, JapaneseCuisine, FusionFood, Kappo, Izakaya, Ramen, Kushiyaki, Sushi, Tempura, Tsukemen, Edomae, TsuruUdon, Travel, Foodie, FoodLover, FoodAdventure, FoodTrip, FoodHeaven]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you planning to visit Osaka and looking for the best places to eat? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Osaka. From traditional Japanese cuisine to modern fusion dishes, these restaurants offer something for everyone. Each restaurant comes with its own unique atmosphere and menu recommendations, so you can find something that suits your tastes. Plus, you’ll get helpful information such as opening and closing hours, so you can plan your trip accordingly. Read on to discover the best restaurants in Osaka! 
 

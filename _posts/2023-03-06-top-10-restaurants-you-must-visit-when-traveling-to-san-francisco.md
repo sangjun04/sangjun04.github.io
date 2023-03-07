@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to San Francisco"
-            categories: travel
-            tag: [SanFrancisco, Travel, Food, Restaurants, , , , , , , , , , , , SanFrancisco, Travel, Food, Restaurants]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to San Francisco"
+categories: travel
+tag: [SanFrancisco, Travel, Food, Restaurants, , , , , , , , , , , , SanFrancisco, Travel, Food, Restaurants]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you planning a trip to San Francisco and looking for the best restaurants to visit? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to San Francisco. From classic American fare to unique international cuisine, these restaurants will make your trip unforgettable. Read on to learn more about each restaurant, their menu recommendations, and other helpful information. 
 

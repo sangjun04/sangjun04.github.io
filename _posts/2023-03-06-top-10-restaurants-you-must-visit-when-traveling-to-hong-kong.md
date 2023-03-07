@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Hong Kong"
-            categories: travel
-            tag: [hongkong, travel, restaurants, dimsum, chinesefood, foodie, tourism, michelinstar, delicious, tasty, explore, adventure, treatyourself, cuisine]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Hong Kong and looking for the best restaurants to visit? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Hong Kong. From traditional Chinese cuisine to modern fusion dishes, these restaurants offer something for everyone. Whether you're looking for a romantic dinner or a casual lunch, these restaurants will satisfy your taste buds. So, let's get started! 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Hong Kong"
+categories: travel
+tag: [hongkong, travel, restaurants, dimsum, chinesefood, foodie, tourism, michelinstar, delicious, tasty, explore, adventure, treatyourself, cuisine]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Hong Kong and looking for the best restaurants to visit? Look no further! Here is a list of the top 10 restaurants you must visit when traveling to Hong Kong. From traditional Chinese cuisine to modern fusion dishes, these restaurants offer something for everyone. Whether you're looking for a romantic dinner or a casual lunch, these restaurants will satisfy your taste buds. So, let's get started! 
 
 ## 1. Tim Ho Wan 
 Address: Shop 12A, Hong Kong Station Podium Level 1, IFC Mall, 8 Finance Street, Central, Hong Kong 

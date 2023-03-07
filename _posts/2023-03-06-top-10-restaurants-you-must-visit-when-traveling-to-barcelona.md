@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Barcelona"
-            categories: travel
-            tag: [TapasBar, GothicQuarter, Cava, MichelinStar, CatalanCuisine, Eixample, TapasBar, Raval, CreativeDishes, BrazilianFood, PobleSec, Cocktails, CatalanCuisine, Gr, Romantic, TapasBar, SantAntoni, CreativeDishes, SpanishCuisine, ElBorn, Wines, MichelinStar, CatalanCuisine, ElRaval, Seafood, Barceloneta, Paella, TapasBar, Eixample, CreativeDishes, Barcelona, Restaurants, Travel, Foodie]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Barcelona"
+categories: travel
+tag: [TapasBar, GothicQuarter, Cava, MichelinStar, CatalanCuisine, Eixample, TapasBar, Raval, CreativeDishes, BrazilianFood, PobleSec, Cocktails, CatalanCuisine, Gr, Romantic, TapasBar, SantAntoni, CreativeDishes, SpanishCuisine, ElBorn, Wines, MichelinStar, CatalanCuisine, ElRaval, Seafood, Barceloneta, Paella, TapasBar, Eixample, CreativeDishes, Barcelona, Restaurants, Travel, Foodie]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you planning a trip to Barcelona? If so, you’re in for a treat! Barcelona is home to some of the best restaurants in the world. From traditional tapas to modern fusion cuisine, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Barcelona:
 

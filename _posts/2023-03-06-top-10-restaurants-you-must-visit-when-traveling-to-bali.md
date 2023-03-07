@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Bali"
-            categories: travel
-            tag: [Hashtags, Bali, Travel, Food, Restaurants, IndonesianFood, Vegan, GlutenFree, HealthyEating, FusionCuisine]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Bali? If so, you’re in for a treat! Bali is known for its delicious cuisine, and there are plenty of amazing restaurants to choose from. To make your trip even better, here are the top 10 restaurants you must visit when traveling to Bali. From traditional Indonesian dishes to modern fusion cuisine, these restaurants have something for everyone. So, get ready to explore the culinary delights of Bali!
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Bali"
+categories: travel
+tag: [Hashtags, Bali, Travel, Food, Restaurants, IndonesianFood, Vegan, GlutenFree, HealthyEating, FusionCuisine]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Bali? If so, you’re in for a treat! Bali is known for its delicious cuisine, and there are plenty of amazing restaurants to choose from. To make your trip even better, here are the top 10 restaurants you must visit when traveling to Bali. From traditional Indonesian dishes to modern fusion cuisine, these restaurants have something for everyone. So, get ready to explore the culinary delights of Bali!
 
 ## 1. Warung Enak
 Located in Ubud, Warung Enak is a traditional Indonesian restaurant that serves up delicious dishes. From their famous Nasi Goreng to their succulent Satay, Warung Enak has something for everyone. The restaurant also offers a variety of vegetarian and vegan options, making it a great choice for those with dietary restrictions. Address: Jalan Raya Ubud No. 8, Ubud, Gianyar, Bali 80571. Opening Hours: 8am-10pm. Menu Recommendations: Nasi Goreng, Satay, Gado-Gado, Sate Lilit.

@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Kuala Lumpur"
-            categories: travel
-            tag: [KualaLumpur, Restaurants, Foodie, Travel, Malaysia, KualaLumpur, Restaurants, Foodie, Travel, Malaysia]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Kuala Lumpur? If so, you’re in for a treat! Kuala Lumpur is home to some of the best restaurants in the world, and you won’t want to miss out on these top 10 must-visit eateries. From traditional Malaysian cuisine to international flavors, there’s something for everyone in Kuala Lumpur. Here’s a list of the top 10 restaurants you must visit when traveling to Kuala Lumpur:
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Kuala Lumpur"
+categories: travel
+tag: [KualaLumpur, Restaurants, Foodie, Travel, Malaysia, KualaLumpur, Restaurants, Foodie, Travel, Malaysia]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Kuala Lumpur? If so, you’re in for a treat! Kuala Lumpur is home to some of the best restaurants in the world, and you won’t want to miss out on these top 10 must-visit eateries. From traditional Malaysian cuisine to international flavors, there’s something for everyone in Kuala Lumpur. Here’s a list of the top 10 restaurants you must visit when traveling to Kuala Lumpur:
 
 1. Nasi Lemak Antarabangsa – This restaurant is known for its traditional Malaysian dishes, such as nasi lemak, a fragrant rice dish cooked in coconut milk and served with a variety of accompaniments. Address: Jalan Tun Razak, 50400 Kuala Lumpur. Menu Recommendations: Nasi Lemak, Rendang, Satay. Opening Hours: 11am-11pm.
 

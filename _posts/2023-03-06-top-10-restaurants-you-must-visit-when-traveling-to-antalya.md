@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Antalya"
-            categories: travel
-            tag: [Hashtags, Antalya, Travel, Food, Restaurants, Turkey, Cuisine, Kebap, D, Falafel, Hummus]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Antalya? If so, you’re in for a treat! Antalya is known for its delicious cuisine and vibrant nightlife. From traditional Turkish dishes to modern fusion cuisine, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Antalya.
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Antalya"
+categories: travel
+tag: [Hashtags, Antalya, Travel, Food, Restaurants, Turkey, Cuisine, Kebap, D, Falafel, Hummus]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Antalya? If so, you’re in for a treat! Antalya is known for its delicious cuisine and vibrant nightlife. From traditional Turkish dishes to modern fusion cuisine, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to Antalya.
 
 ## 1. Kebapçı İskender
 Address: Atatürk Cd. No:7, 07050 Muratpaşa/Antalya, Turkey

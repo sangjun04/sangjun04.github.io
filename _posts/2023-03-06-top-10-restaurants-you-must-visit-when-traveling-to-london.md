@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to London"
-            categories: travel
-            tag: [LondonFood, Foodie, LondonRestaurants, TravelLondon, LondonEats, LondonDining, LondonLife, LondonTravel, LondonLifestyle, LondonFoodie, LondonFoodies]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you traveling to London soon? If so, you’re in for a treat! London is home to some of the best restaurants in the world. From traditional British fare to modern international cuisine, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to London: 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to London"
+categories: travel
+tag: [LondonFood, Foodie, LondonRestaurants, TravelLondon, LondonEats, LondonDining, LondonLife, LondonTravel, LondonLifestyle, LondonFoodie, LondonFoodies]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you traveling to London soon? If so, you’re in for a treat! London is home to some of the best restaurants in the world. From traditional British fare to modern international cuisine, there’s something for everyone. Here are the top 10 restaurants you must visit when traveling to London: 
 
 1. The Ledbury – 127 Ledbury Road, Notting Hill, London W11 2AQ 
 The Ledbury is a Michelin-starred restaurant that serves modern European cuisine. The menu is constantly changing, but you can expect dishes like roasted scallops with cauliflower, truffle and hazelnuts, and roast loin of venison with celeriac and blackberry. 

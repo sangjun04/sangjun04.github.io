@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Phuket"
-            categories: travel
-            tag: [Phuket, Thailand, Travel, Foodie, FoodLover]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Phuket? If so, you're in for a treat! Phuket is home to some of the best restaurants in Thailand. From traditional Thai cuisine to international flavors, there's something for everyone. Here are the top 10 restaurants you must visit when traveling to Phuket. 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Phuket"
+categories: travel
+tag: [Phuket, Thailand, Travel, Foodie, FoodLover]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Phuket? If so, you're in for a treat! Phuket is home to some of the best restaurants in Thailand. From traditional Thai cuisine to international flavors, there's something for everyone. Here are the top 10 restaurants you must visit when traveling to Phuket. 
 
 1.  **The Boathouse** - Located in the heart of Phuket Town, The Boathouse offers a unique dining experience. The menu features a variety of Thai and international dishes, including seafood, curries, and salads. The restaurant also has an outdoor seating area overlooking the sea. Address: 9/9 Moo 2, Viset Road, Tambon Talat Yai, Amphoe Mueang Phuket, Phuket 83000. Opening Hours: 11:30am-11:00pm. Menu Recommendations: Green Curry, Pad Thai, and Grilled Fish. 
 

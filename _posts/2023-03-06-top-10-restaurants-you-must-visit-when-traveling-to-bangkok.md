@@ -1,13 +1,13 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Bangkok"
-            categories: travel
-            tag: [Bangkok, ThaiFood, Foodie, Travel, Restaurants, FoodTasting, FineDining]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Bangkok"
+categories: travel
+tag: [Bangkok, ThaiFood, Foodie, Travel, Restaurants, FoodTasting, FineDining]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
             
 Are you looking for the best places to eat in Bangkok? Look no further! From street food to fine dining, Bangkok has something for everyone. Here are the top 10 restaurants you must visit when traveling to Bangkok. 
 

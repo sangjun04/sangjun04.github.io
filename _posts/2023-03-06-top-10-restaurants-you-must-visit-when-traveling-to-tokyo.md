@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Tokyo"
-            categories: travel
-            tag: [Tokyo, Travel, Food, Restaurants, Japan, Sushi, Tempura, Ramen, Kaiseki, Kushikatsu]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Tokyo? If so, you’re in for a treat! Tokyo is home to some of the world’s best restaurants, and if you’re looking for a truly unforgettable experience, you’ll want to check out these top 10 restaurants. From traditional Japanese cuisine to modern fusion dishes, there’s something for everyone in Tokyo. Here are the top 10 restaurants you must visit when traveling to Tokyo:
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Tokyo"
+categories: travel
+tag: [Tokyo, Travel, Food, Restaurants, Japan, Sushi, Tempura, Ramen, Kaiseki, Kushikatsu]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Tokyo? If so, you’re in for a treat! Tokyo is home to some of the world’s best restaurants, and if you’re looking for a truly unforgettable experience, you’ll want to check out these top 10 restaurants. From traditional Japanese cuisine to modern fusion dishes, there’s something for everyone in Tokyo. Here are the top 10 restaurants you must visit when traveling to Tokyo:
 
 1. **Sushi Dai** - Located in the famous Tsukiji Fish Market, Sushi Dai is one of the best sushi restaurants in Tokyo. The restaurant serves up fresh sushi made with the highest quality ingredients. The menu includes a variety of sushi, sashimi, and other traditional Japanese dishes. Address: 5-2-1 Tsukiji, Chuo-ku, Tokyo. Opening Hours: 5:00 am - 2:00 pm.
 

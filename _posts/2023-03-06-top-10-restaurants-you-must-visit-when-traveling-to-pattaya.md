@@ -1,14 +1,14 @@
 ---
-            layout: single
-            title:  "Top 10 Restaurants you must visit when traveling to Pattaya"
-            categories: travel
-            tag: [Pattaya, Thailand, Food, Travel, Restaurants]
-            toc: false
-            author_profile: false
-            sidebar:
-                nav: "counts"
-            ---
-            Are you planning a trip to Pattaya? If so, you're in for a treat! Pattaya is a vibrant city full of delicious food, exciting nightlife, and plenty of activities to keep you busy. To make sure you don't miss out on the best restaurants in town, here's a list of the top 10 restaurants you must visit when traveling to Pattaya. 
+layout: single
+title:  "Top 10 Restaurants you must visit when traveling to Pattaya"
+categories: travel
+tag: [Pattaya, Thailand, Food, Travel, Restaurants]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
+Are you planning a trip to Pattaya? If so, you're in for a treat! Pattaya is a vibrant city full of delicious food, exciting nightlife, and plenty of activities to keep you busy. To make sure you don't miss out on the best restaurants in town, here's a list of the top 10 restaurants you must visit when traveling to Pattaya. 
 
 1. The Beach Club Restaurant & Bar: Located on the beachfront, this restaurant offers a wide selection of international and Thai dishes. The menu includes fresh seafood, steaks, salads, and more. The restaurant also offers a great view of the beach and a lively atmosphere. Address: Jomtien Beach, Pattaya, Thailand. 
 
