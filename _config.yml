@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Foodie Footsteps
+email: s.junlee04@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Welcome to Foodie Footsteps, where we believe that the best way to experience a new destination is through its cuisine. Our blog combines a love of travel and food, as we explore the world one meal at a time. From street food in bustling cities to gourmet dining experiences in remote locales, we seek out the most delicious and unique flavors each destination has to offer. Join us on our culinary adventures and discover the tastes and cultures that make each place we visit so special.
+baseurl: sangjun04.github.io # the subpath of your site, e.g. /blog
+url: sangjun04.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  
 
 # Build settings
 theme: minima
